@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hugo-course.pages.dev/posts/about/</loc>
+    <lastmod>2025-03-04T20:10:38+03:30</lastmod>
+  </url><url>
     <loc>https://hugo-course.pages.dev/posts/first/</loc>
     <lastmod>2025-03-04T20:10:38+03:30</lastmod>
   </url><url>
@@ -10,8 +13,6 @@
   </url><url>
     <loc>https://hugo-course.pages.dev/posts/</loc>
     <lastmod>2025-03-04T20:10:38+03:30</lastmod>
-  </url><url>
-    <loc>https://hugo-course.pages.dev/posts/about/</loc>
   </url><url>
     <loc>https://hugo-course.pages.dev/categories/</loc>
   </url><url>
